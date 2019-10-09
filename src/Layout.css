@@ -1,0 +1,23 @@
+.grid {
+    display: flex;
+}
+
+.specials-container {
+    /* display: flex; */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.numbers-container {
+    /* display: flex; */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.operations-container {
+    /* display: flex; */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

@@ -4,10 +4,11 @@
     max-width: 550px;
     border-radius: 15px;
     border: 2px solid grey;
-    padding-bottom: 25px;
+    padding: 25px;
+    margin: auto;
 }
 .display {
-    margin-top: 25px;
+    margin: 25px auto;
     height: 100px;
     width: 450px;
     border-radius: 50px;
